@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web development.**
 
-- 💬 Ask me about **python, HTML and CSS.**
+- 💬 Ask me about **python, HTML, CSS and Javascript.**
 
 - 📫 How to reach me **arundhatilanghe42x@gmail.com**
 
