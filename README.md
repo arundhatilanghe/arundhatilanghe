@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/arundhatilanghe" target="blank"><img src="https://img.shields.io/twitter/follow/arundhatilanghe?logo=twitter&style=for-the-badge" alt="arundhatilanghe" /></a> </p>
 
-- 🌱 I’m currently learning **Web development.**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **python, HTML, CSS and Javascript.**
+- 💬 Ask me about **Java, Python, HTML, CSS and Javascript.**
 
 - 📫 How to reach me **arundhatilanghe42x@gmail.com**
 
